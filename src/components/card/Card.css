@@ -1,0 +1,10 @@
+.card:hover
+{
+	opacity: 1;
+
+}
+
+.card
+{
+	height: 250px;
+}
